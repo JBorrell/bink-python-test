@@ -2,8 +2,11 @@
 
 # To run:
 Clone repo
+
 Inside directory run 'python3 analyse_data.py'
+
 Input data type required according to command prompt
+
 
 # Tests:
 Inside directory run 'python3 tests.py'
